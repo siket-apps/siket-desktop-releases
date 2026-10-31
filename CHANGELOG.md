@@ -46,3 +46,4 @@ Welcome to the official stable release of **Siket Desktop 2.0**! This milestone 
 ---
 
 *For detailed documentation and support, please visit [siket.app](https://siket.app).*
+
