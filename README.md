@@ -92,5 +92,5 @@ Siket Desktop automatically checks for new updates in the background. When a new
 
 ## 📄 License & Terms
 
-Copyright © 2026 Siket Technologies. All rights reserved.  
+Copyright © 2026 Siket Inc. All rights reserved.  
 For support or feedback, visit [siket.app](https://siket.app).
